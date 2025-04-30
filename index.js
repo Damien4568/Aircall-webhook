@@ -10,7 +10,7 @@ app.post('/', (req, res) => {
 
   // Odpowiedź dla Aircall - wskazujemy użytkownika Emmy po ID
   res.json({
-    target_user: "1421419"
+    target_user: "872032"
   });
 });
 
